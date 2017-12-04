@@ -1,0 +1,3 @@
+{:require [website.core]
+ :init-fns [website.core/init]
+ :compiler-options {:asset-path "/scripts/main.out"}}
