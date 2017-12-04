@@ -57,7 +57,7 @@
             :content "width=device-width, initial-scale=1.0,
     minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"}]
     [:link {:rel "stylesheet"
-            :href "//fonts.googleapis.com/css?family=Source+Serif+Pro"}]
+            :href "//fonts.googleapis.com/css?family=Source+Serif+Pro:400,700"}]
     [:link {:rel "stylesheet" :href "/styles/core.css"}]
     [:link {:rel "stylesheet" :href "/styles/pygments.css"}]]
    [:body
